@@ -6,4 +6,5 @@ Rock
 Paper 
 Scissors
 
-The user must choose one of these 3 options.
+The user must choose one of these 3 options,Then, Then the user selected the system to check.
+
