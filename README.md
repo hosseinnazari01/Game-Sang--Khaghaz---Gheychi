@@ -1,2 +1,1 @@
-# Calculator-1
-Create a Project Calculator
+Create a Python Project Game (Sang-Kaghaz-Gheychi)
