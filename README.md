@@ -1,10 +1,11 @@
-In this project we have a rock-paper-scissors game.
-We defined a constant variable called system and we named the amount as stone and we named the variable value Stone.
-Then we defined another variable called user with the input command that the user can choose,Includes 3 options
-👇🏻👇🏻👇🏻
+This project is a rock-paper-scissors game.
+First we defined a constant variable called computer.
+And then we defined another variable with the username and the input command and then 3 values
+
 Rock 
 Paper 
 Scissors
 
-The user must choose one of these 3 options,Then, Then the user selected the system to check.
-
+And then the user must enter one of these valuesو 
+if the user entered the amount of stone and it was equal to the fixed amount of stone, print equal.
+Otherwise, if the user entered the amount of paper and it was a fixed amount of stone, print it, you won.
