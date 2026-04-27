@@ -1,4 +1,6 @@
-Create a Python Project Game (Sang-Kaghaz-Gheychi)
-We have a fixed amount called rock in a variable memory called a computer.
-Then We defined another variable memory called the user,Then we command the user variable.
-Then we entered three amounts called stone - paper - scissors
+In this project we have a rock-paper-scissors game.
+We defined a constant variable called system and we named the amount as stone and we named the variable value Stone.
+Then we defined another variable called user with the input command that the user can choose,Includes 3 options
+Rock 
+Paper 
+Scissors
