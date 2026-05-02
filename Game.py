@@ -9,4 +9,4 @@ elif user == "Gheychi" and computer == "Kaghaz":
 elif user == "Sang" and computer == "Gheychi":
     print("To Bordi!")
 else:
-    print("Computer Bord!") 
+    print("Computer Bord!")
